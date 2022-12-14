@@ -1,0 +1,48 @@
+categories:
+- computers
+conversations:
+- -  Que es una computadora?
+   - Una computadora es un dispositivo electronico que toma informacion en forma digital y realiza una serie de operaciones basadas en instrucciones predeterminadas para generar algun resultado.
+   - Lo que estas usando para hablar conmigo es una computadora.
+   - Un dispositivo electronico capaz de realizar calculos a muy alta velocidad y con una precision muy alta.
+   - Un dispositivo que asigna un conjunto de numeros a otro conjunto de numeros.
+- -  Que es una supercomputadora?
+   - Las computadoras que pueden realizar un gran numero de calculos a muy alta velocidad y precision se denominan supercomputadoras.
+   - Una supercomputadora es una computadora que opera en varios ordenes de magnitud mayor velocidad y capacidad que las computadoras de proposito general comunes, como la que me esta hablando.
+   - Ya sabes, el gran hierro!
+- -  Quien invento las computadoras?
+   - Es un poco ambiguo, pero el cientifico britanico Charles Babbage es considerado el padre de las computadoras.
+   - Se podria argumentar que John von Neumann invento las computadoras tal como las conocemos, porque invento la arquitectura de Princeton, en la que las instrucciones y los datos comparten el mismo campo de memoria pero se diferencian por el contexto.
+- -  Cual fue la primera computadora?
+   - Es dificil de decir, pero la ENIAC se considera la primera computadora  real . Fue desarrollado en la Universidad de Pensilvania en 1946.
+   - Se podria decir que la primera computadora primitiva fue el Jacquard Loom, que era un telar programable que usaba tarjetas perforadas para almacenar los patrones que hacia. Esto lo convirtio en un dispositivo mecanico reprogramable.
+- -  Que es un microprocesador?
+   - Un circuito integrado que implementa las funciones de una unidad central de procesamiento de una computadora.
+   - Un circuito realmente pequeño que almacena instrucciones y realiza calculos para la computadora.
+   - El corazon de la computadora, para decirlo simplemente.
+   - El cerebro de una computadora, para decirlo simplemente.
+   - Un componente electronico en el que todas las partes forman parte de un chip de silicio contiguo, en lugar de componentes discretos montados en una placa de circuito mas grande.
+- -  Que es un sistema operativo?
+   - El software que se coordina entre el hardware y otras partes de la computadora para ejecutar otro software se denomina sistema operativo o OS.
+   - Windows, MacOS, Linux, UNIX... todos ellos son tipos de SO.
+   - Android e iOS son sistemas operativos para dispositivos moviles.
+   - Software que implementa las funciones basicas de una computadora, como el acceso a la memoria, los procesos y el acceso periferico.
+- -  Que es mejor Windows o macOS?
+   - ¡Depende de que maquina estes usando para hablar conmigo!
+   - Preferiria no herir tus sentimientos.
+   - ¡Linux, siempre Linux!
+   - Que estas tratando de lograr. El sistema operativo debe respaldar sus objetivos.
+- - Nombre alguna empresa de informatica
+   -  Te refieres a hardware o software?
+   - Apple fabrica hardware y software para ejecutarse en el. Microsft solo fabrica sistemas operativos. HP solo fabrica computadoras. Estos son solo algunos nombres entre varios cientos de otros.
+- -  Quien usa las supercomputadoras?
+   - Cualquiera que quiera trabajar con numeros grandes rapidamente y con gran precision.
+   - Cualquiera que necesite trabajar con conjuntos de datos muy, muy grandes en periodos de tiempo mucho mas cortos de lo que es factible con los sistemas informaticos mas comunes.
+   - Las supercomputadoras son generalmente utilizadas por cientificos e investigadores.
+   - Apuesto a que el departamento MET los usa.
+   - Definitivamente puedes encontrar algunos de ellos en la NASA.
+- -  Como funciona una computadora?
+   - Las computadoras son muy tontas. Solo ejecutan instrucciones dadas por humanos.
+   - Las computadoras hacen todo lo que se les pide mediante la realizacion de un gran numero de operaciones matematicas basicas muy rapidamente en secuencia.
+   - Las computadoras realizan una gran cantidad de calculos para obtener el resultado.
+   - ¡Al igual que todo, todo se reduce a las matematicas!
